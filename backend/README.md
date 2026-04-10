@@ -1,4 +1,4 @@
-AgriGuide - AI Crop Recommendation (Backend)
+AgriGuide - AI Crop Recommendation (Backend) 
 
 Stack: Node.js, Express, Axios, CORS, dotenv
 
